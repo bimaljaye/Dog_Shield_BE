@@ -1,0 +1,7 @@
+video_understanding.py >>>>>>>>>>>>>
+
+A python script to analyze youtube videos. We can provide the URL of the youtube video.
+
+local_video_understanding.py & local_video_understanding2.py
+
+Two python scripts for analyze local videos. local_video_understanding2.py scripts is more readable.
