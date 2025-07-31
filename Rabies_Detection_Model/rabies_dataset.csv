@@ -1,0 +1,3001 @@
+dog_breed,dog_age,vaccinated,grooming,rabies,fever,lethargy,behavior_change,aggression,excessive_drooling,difficulty_swallowing,seizures,staggering_gait,hind_leg_paralysis,jaw_dropped
+Shih Tzu,9,no,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,9,no,yes,yes,yes,yes,yes,no,no,no,yes,no,yes,no
+Pomeranian,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,1,no,no,yes,yes,no,no,no,no,no,no,no,no,no
+Boxer,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,15,no,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,6,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,10,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Bulldog,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,5,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no
+Boxer,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,12,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no
+Beagle,7,no,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,6,no,yes,yes,yes,yes,yes,no,yes,no,no,no,no,yes
+French Bulldog,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,15,no,no,no,no,yes,no,no,no,no,no,no,no,no
+Chihuahua,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,5,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Pomeranian,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,6,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,6,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Rottweiler,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,10,yes,yes,yes,no,no,yes,no,no,no,no,no,no,no
+Great Dane,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,15,no,yes,yes,yes,yes,yes,no,yes,no,yes,yes,no,no
+German Shepherd,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,6,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Great Dane,15,no,no,yes,yes,yes,yes,yes,no,no,yes,no,no,no
+French Bulldog,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,15,yes,no,no,no,no,yes,no,no,no,no,no,no,no
+Rottweiler,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,13,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+German Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,9,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes
+German Shepherd,14,no,yes,yes,yes,yes,no,no,no,no,no,no,no,no
+Boxer,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,2,no,no,yes,no,yes,no,no,no,no,no,no,no,no
+Pomeranian,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,7,no,no,yes,yes,yes,yes,yes,no,yes,yes,no,no,no
+Stray,9,no,no,yes,no,yes,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,13,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Stray,7,no,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,5,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Chihuahua,8,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Beagle,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,7,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,4,no,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes
+Rottweiler,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,5,no,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,no
+Siberian Husky,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,12,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Pomeranian,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,9,no,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,12,no,no,yes,yes,no,yes,no,no,no,no,no,no,no
+Bulldog,1,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no
+French Bulldog,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,7,no,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,12,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no
+Bulldog,10,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes
+Chihuahua,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,6,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,2,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Shih Tzu,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,1,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Shih Tzu,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,1,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,3,no,yes,yes,yes,yes,yes,no,no,no,yes,yes,no,no
+Australian Shepherd,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,4,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+Bulldog,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,14,no,no,yes,yes,yes,yes,no,yes,yes,no,yes,no,yes
+Chihuahua,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,9,no,yes,yes,no,yes,no,no,no,no,no,no,no,no
+Labrador Retriever,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,11,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no
+Great Dane,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,8,no,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,7,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no,no
+Rottweiler,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,no,yes,yes,yes,yes,yes,no,no,no,yes,yes,no,no
+Doberman Pinscher,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,9,no,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,12,no,no,yes,yes,no,no,no,no,no,no,no,no,no
+Rottweiler,13,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes
+Labrador Retriever,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,13,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,no
+Great Dane,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,13,no,yes,yes,yes,no,yes,no,no,no,no,no,no,no
+Shih Tzu,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,15,yes,no,yes,yes,no,no,no,no,no,no,no,no,no
+Golden Retriever,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,12,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no
+Mixed Breed,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,5,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Stray,10,no,no,yes,yes,yes,yes,yes,no,no,yes,no,no,no
+Australian Shepherd,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,11,no,yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes,no
+Rottweiler,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,12,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Dachshund,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,14,yes,no,no,yes,no,no,no,no,no,no,no,no,no
+Golden Retriever,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,1,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Labrador Retriever,5,no,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,no
+Stray,10,no,no,yes,yes,yes,yes,yes,yes,no,no,no,yes,no
+Shih Tzu,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,6,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Chihuahua,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,12,no,yes,yes,yes,yes,yes,no,no,no,yes,yes,no,no
+Bulldog,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,9,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+Bulldog,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,10,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+German Shepherd,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,11,no,yes,yes,yes,yes,yes,no,yes,no,yes,no,no,no
+Siberian Husky,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,9,no,no,yes,yes,yes,no,no,no,no,no,no,no,no
+German Shepherd,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,11,yes,no,no,no,yes,no,no,no,no,no,no,no,no
+Pomeranian,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Poodle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,3,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,yes
+Pomeranian,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,1,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Chihuahua,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,13,no,no,yes,yes,yes,yes,no,no,yes,no,no,no,yes
+French Bulldog,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,8,no,yes,yes,yes,yes,yes,no,no,yes,yes,no,no,no
+Dachshund,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,7,no,yes,yes,yes,yes,yes,no,no,no,yes,no,yes,yes
+Pomeranian,5,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,5,no,yes,yes,no,no,yes,no,no,no,no,no,no,no
+Australian Shepherd,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,8,no,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes
+Mixed Breed,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,2,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+Pomeranian,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,5,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Shih Tzu,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,10,no,no,yes,yes,yes,yes,no,yes,no,no,no,yes,yes
+Shih Tzu,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,5,no,no,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no
+German Shepherd,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,9,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Bulldog,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,10,no,yes,yes,yes,yes,yes,yes,no,no,yes,no,yes,yes
+Golden Retriever,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,13,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes
+Golden Retriever,5,no,no,yes,yes,yes,yes,no,yes,no,yes,no,no,no
+Poodle,3,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,12,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,no
+Dachshund,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,14,no,no,yes,no,yes,yes,no,no,no,no,no,no,no
+Poodle,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,7,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,yes
+Mixed Breed,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,15,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no
+Dachshund,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,3,no,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Doberman Pinscher,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,15,no,no,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes
+Stray,12,no,yes,yes,yes,yes,yes,no,yes,yes,no,no,yes,yes
+Shih Tzu,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,1,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no
+Poodle,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,14,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no
+Boxer,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Shih Tzu,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,4,no,no,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes
+German Shepherd,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,12,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes
+Australian Shepherd,5,no,yes,yes,yes,yes,yes,yes,no,no,no,yes,no,no
+Doberman Pinscher,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,3,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Australian Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,3,no,no,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes
+Golden Retriever,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,7,no,no,yes,yes,yes,yes,no,yes,no,yes,no,no,no
+Mixed Breed,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,6,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Golden Retriever,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,10,no,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no,yes
+Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,11,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes
+Poodle,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,8,yes,no,yes,no,yes,no,no,no,no,no,no,no,no
+Poodle,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,3,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Dachshund,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,8,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,13,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no
+Poodle,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,5,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Labrador Retriever,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,1,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,14,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+Poodle,7,no,no,yes,no,no,yes,no,no,no,no,no,no,no
+German Shepherd,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,8,yes,no,no,no,yes,no,no,no,no,no,no,no,no
+Boxer,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,5,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Mixed Breed,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,7,yes,no,no,no,yes,no,no,no,no,no,no,no,no
+Labrador Retriever,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,8,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes
+Stray,15,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes
+Chihuahua,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,11,no,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,14,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no
+Rottweiler,8,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,yes
+Chihuahua,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,12,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+French Bulldog,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,5,no,no,yes,yes,yes,yes,yes,no,yes,no,no,no,yes
+Chihuahua,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,7,no,no,yes,yes,yes,yes,no,yes,yes,no,no,no,yes
+Siberian Husky,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,12,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Shih Tzu,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,2,no,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+German Shepherd,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,5,no,yes,yes,yes,yes,yes,no,yes,no,yes,no,no,no
+French Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,10,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Australian Shepherd,12,no,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,no
+Siberian Husky,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,no,no,yes,yes,no,no,no,no,no,no,no,no,no
+Rottweiler,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,2,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Doberman Pinscher,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,2,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no
+Siberian Husky,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,2,yes,no,yes,yes,yes,yes,no,no,yes,yes,no,no,no
+Great Dane,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,15,no,no,yes,no,no,yes,no,no,no,no,no,no,no
+Shih Tzu,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,5,no,no,yes,yes,no,yes,no,no,no,no,no,no,no
+Australian Shepherd,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,10,yes,yes,yes,no,no,yes,no,no,no,no,no,no,no
+Rottweiler,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,13,no,no,yes,yes,yes,no,no,no,no,no,no,no,no
+Boxer,7,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Stray,5,no,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,15,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes
+Dachshund,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,9,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Bulldog,13,yes,no,no,no,yes,no,no,no,no,no,no,no,no
+Bulldog,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,5,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Bulldog,13,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+French Bulldog,12,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Dachshund,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,11,no,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,no
+Rottweiler,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,6,no,yes,yes,yes,yes,yes,no,yes,yes,yes,no,no,yes
+Siberian Husky,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,6,no,no,yes,no,yes,yes,no,no,no,no,no,no,no
+Beagle,3,no,no,yes,yes,yes,yes,yes,no,yes,no,no,no,no
+Chihuahua,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,2,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Rottweiler,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,3,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Boxer,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Rottweiler,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,8,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,3,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,5,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,no,no
+Australian Shepherd,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,10,no,no,yes,yes,yes,yes,yes,no,yes,yes,no,no,no
+German Shepherd,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,15,no,yes,yes,yes,yes,yes,no,yes,no,yes,no,no,no
+Doberman Pinscher,13,no,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no
+Mixed Breed,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,8,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Bulldog,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,2,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Mixed Breed,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,13,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no,no
+German Shepherd,1,no,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,yes
+Stray,13,no,no,yes,yes,yes,yes,no,no,yes,yes,yes,yes,no
+Rottweiler,6,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Boxer,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,7,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no
+Beagle,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,8,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,yes
+Australian Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,6,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Doberman Pinscher,12,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Labrador Retriever,11,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Chihuahua,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,9,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,4,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Beagle,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,9,no,yes,yes,no,no,yes,no,no,no,no,no,no,no
+Doberman Pinscher,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,11,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Mixed Breed,9,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,6,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,7,no,yes,yes,yes,no,no,no,no,no,no,no,no,no
+Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,2,no,no,yes,yes,no,no,no,no,no,no,no,no,no
+Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,1,no,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,5,no,no,yes,yes,yes,yes,yes,no,yes,no,no,no,yes
+Beagle,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,12,no,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,14,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no
+Labrador Retriever,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,6,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no
+Stray,2,no,no,yes,yes,yes,yes,no,no,yes,yes,no,no,no
+Shih Tzu,3,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Pomeranian,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,13,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Dachshund,15,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,12,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,yes,yes
+Bulldog,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,13,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Beagle,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,8,no,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,1,no,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,14,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,5,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Stray,7,no,no,yes,no,yes,yes,no,no,no,no,no,no,no
+Dachshund,12,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no
+Shih Tzu,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,10,yes,no,no,no,no,yes,no,no,no,no,no,no,no
+Golden Retriever,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,3,no,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,2,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Australian Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,11,no,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,3,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Boxer,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,14,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,15,no,yes,yes,yes,yes,yes,no,yes,no,yes,yes,no,yes
+Labrador Retriever,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,2,no,yes,yes,yes,no,no,no,no,no,no,no,no,no
+Great Dane,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,4,yes,yes,no,no,yes,yes,no,no,no,no,no,no,no
+Chihuahua,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,2,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,3,no,no,yes,yes,no,yes,no,no,no,no,no,no,no
+Great Dane,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,9,no,no,yes,yes,yes,no,no,no,no,no,no,no,no
+German Shepherd,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,6,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no
+Great Dane,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,6,no,no,yes,yes,yes,yes,yes,no,yes,yes,yes,no,no
+German Shepherd,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,4,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Mixed Breed,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,5,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no
+Boxer,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,no,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no
+Great Dane,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,1,no,no,yes,no,no,yes,no,no,no,no,no,no,no
+Pomeranian,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,2,no,no,yes,yes,yes,yes,yes,no,yes,yes,no,no,no
+Australian Shepherd,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,7,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no,no
+Dachshund,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,3,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Shih Tzu,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,11,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Australian Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,3,no,no,yes,yes,yes,yes,no,yes,yes,no,no,no,no
+Stray,4,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Labrador Retriever,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,9,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,7,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,15,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Shih Tzu,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,7,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Beagle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,2,no,no,yes,no,yes,yes,no,no,no,no,no,no,no
+Chihuahua,3,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,yes
+Boxer,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,9,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+German Shepherd,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,2,no,yes,yes,yes,yes,no,no,no,no,no,no,no,no
+French Bulldog,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,10,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,12,no,yes,yes,yes,yes,yes,no,yes,no,yes,no,no,no
+Australian Shepherd,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,5,no,yes,yes,yes,no,no,no,no,no,no,no,no,no
+Pomeranian,3,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Bulldog,5,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,6,no,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes
+Great Dane,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,12,yes,no,no,no,no,yes,no,no,no,no,no,no,no
+Shih Tzu,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,11,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Rottweiler,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,15,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Beagle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,9,no,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no
+Siberian Husky,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,6,yes,yes,yes,yes,yes,yes,no,yes,no,no,yes,no,yes
+Bulldog,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,8,yes,no,yes,yes,yes,yes,yes,no,no,yes,no,no,no
+Mixed Breed,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,no,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,13,yes,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+Great Dane,1,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,yes
+Dachshund,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,9,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Boxer,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,1,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,no
+Shih Tzu,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,2,no,yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes,no
+French Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,4,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes
+Australian Shepherd,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,3,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Boxer,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,1,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,yes
+German Shepherd,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,5,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no
+Great Dane,9,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Dachshund,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,15,no,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,8,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+French Bulldog,7,no,no,yes,yes,yes,yes,no,yes,yes,yes,no,no,no
+German Shepherd,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,7,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Doberman Pinscher,6,no,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no
+Boxer,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,7,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,yes
+Chihuahua,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,5,no,no,yes,yes,no,no,no,no,no,no,no,no,no
+Rottweiler,7,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Australian Shepherd,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,8,no,no,yes,yes,no,yes,no,no,no,no,no,no,no
+Mixed Breed,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,13,no,yes,yes,yes,yes,yes,no,yes,no,yes,no,no,no
+Golden Retriever,14,no,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,6,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Labrador Retriever,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,10,no,no,yes,yes,yes,yes,no,no,no,yes,no,yes,yes
+Labrador Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,9,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Pomeranian,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,7,no,no,yes,yes,yes,yes,no,yes,yes,no,no,yes,yes
+Boxer,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,2,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Stray,10,no,no,yes,yes,yes,yes,yes,no,yes,yes,no,no,no
+Beagle,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,5,no,no,yes,yes,yes,yes,no,yes,yes,yes,no,no,yes
+Australian Shepherd,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,11,no,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,7,yes,no,no,no,no,yes,no,no,no,no,no,no,no
+Mixed Breed,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,13,no,no,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes
+Chihuahua,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,3,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,6,no,no,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes
+French Bulldog,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,5,yes,no,no,yes,no,no,no,no,no,no,no,no,no
+Chihuahua,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,10,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Pomeranian,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,5,no,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,8,no,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,3,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Golden Retriever,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,9,no,no,yes,yes,yes,no,no,no,no,no,no,no,no
+Boxer,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,15,no,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no
+Bulldog,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,7,no,no,yes,yes,yes,yes,yes,no,no,yes,no,no,yes
+Rottweiler,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,15,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,10,no,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Chihuahua,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,11,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+Pomeranian,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,4,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,13,no,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,11,no,yes,yes,yes,yes,yes,no,no,yes,yes,no,no,no
+Mixed Breed,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,7,yes,no,no,yes,no,no,no,no,no,no,no,no,no
+Chihuahua,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,5,no,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,13,no,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Bulldog,13,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,15,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,15,no,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,5,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,5,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes
+Rottweiler,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,11,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Labrador Retriever,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,7,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,6,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Pomeranian,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,5,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Poodle,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,15,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,4,no,no,yes,yes,no,no,no,no,no,no,no,no,no
+Great Dane,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,13,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Poodle,6,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Australian Shepherd,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,15,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Shih Tzu,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,12,no,no,no,yes,no,no,no,no,no,no,no,no,no
+Pomeranian,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,7,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes
+Doberman Pinscher,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,9,no,no,yes,yes,yes,yes,yes,no,no,no,yes,no,yes
+Stray,13,no,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,5,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,3,no,no,yes,no,no,yes,no,no,no,no,no,no,no
+Mixed Breed,2,yes,no,no,no,yes,no,no,no,no,no,no,no,no
+German Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,2,no,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,1,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Australian Shepherd,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,2,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Australian Shepherd,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,3,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Doberman Pinscher,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,12,yes,no,no,no,no,yes,no,no,no,no,no,no,no
+Shih Tzu,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,3,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,8,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,yes
+Rottweiler,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,1,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,5,no,yes,yes,yes,no,yes,no,no,no,no,no,no,no
+Pomeranian,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,1,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Dachshund,9,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Poodle,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,7,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,no,no
+French Bulldog,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,14,no,no,yes,yes,yes,yes,no,no,yes,yes,no,no,no
+Boxer,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,10,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no
+Bulldog,5,no,no,yes,yes,yes,yes,no,yes,yes,yes,no,yes,yes
+Dachshund,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,5,no,no,yes,yes,yes,yes,no,yes,yes,no,no,no,no
+Poodle,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,11,no,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,2,no,yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes,no
+Rottweiler,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,6,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+German Shepherd,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,3,no,no,yes,yes,yes,yes,no,no,yes,yes,no,no,no
+Mixed Breed,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,15,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Siberian Husky,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,4,no,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Australian Shepherd,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,2,no,yes,yes,yes,no,no,no,no,no,no,no,no,no
+Beagle,3,yes,no,no,no,yes,no,no,no,no,no,no,no,no
+Rottweiler,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,7,no,no,no,no,yes,no,no,no,no,no,no,no,no
+Chihuahua,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,11,yes,no,no,yes,no,no,no,no,no,no,no,no,no
+Australian Shepherd,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,6,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no
+Mixed Breed,4,no,yes,yes,yes,no,yes,no,no,no,no,no,no,no
+Poodle,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,9,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Beagle,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,15,yes,no,no,yes,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,12,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,yes
+Great Dane,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,9,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,5,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,8,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,7,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Australian Shepherd,15,yes,no,no,yes,no,no,no,no,no,no,no,no,no
+Great Dane,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,2,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,no
+Beagle,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,11,no,no,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no
+Stray,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,2,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Dachshund,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,6,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Rottweiler,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,12,yes,no,no,yes,no,no,no,no,no,no,no,no,no
+Stray,2,no,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,5,no,no,yes,no,yes,no,no,no,no,no,no,no,no
+Golden Retriever,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,14,yes,no,no,no,yes,no,no,no,no,no,no,no,no
+French Bulldog,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,3,yes,no,yes,yes,yes,yes,no,no,yes,yes,no,no,no
+French Bulldog,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,3,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Beagle,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,1,no,no,yes,yes,yes,yes,no,no,no,yes,no,no,yes
+Beagle,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,8,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,no,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes
+Shih Tzu,10,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+German Shepherd,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,4,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+Boxer,6,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Rottweiler,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,3,no,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes
+German Shepherd,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,3,no,yes,yes,yes,no,no,no,no,no,no,no,no,no
+Dachshund,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,9,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Mixed Breed,6,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes
+German Shepherd,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,9,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,6,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Chihuahua,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,1,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Beagle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,11,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Dachshund,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,1,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+French Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,12,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Rottweiler,8,no,no,yes,no,yes,no,no,no,no,no,no,no,no
+Shih Tzu,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,7,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no
+Chihuahua,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,2,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no,no,no
+Pomeranian,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,5,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no
+Golden Retriever,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,8,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Stray,7,no,no,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no
+Golden Retriever,1,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Siberian Husky,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,3,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes
+Stray,7,no,no,yes,yes,yes,yes,no,yes,yes,no,no,no,no
+Shih Tzu,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,1,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Rottweiler,8,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no
+Mixed Breed,4,no,yes,yes,no,yes,no,no,no,no,no,no,no,no
+German Shepherd,7,no,no,yes,yes,yes,yes,no,no,yes,no,yes,yes,yes
+Shih Tzu,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,8,no,yes,yes,yes,no,no,no,no,no,no,no,no,no
+Mixed Breed,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,3,no,yes,yes,yes,yes,no,no,no,no,no,no,no,no
+Stray,1,no,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,10,no,no,yes,no,yes,yes,no,no,no,no,no,no,no
+Mixed Breed,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,10,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Shih Tzu,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,12,no,no,yes,no,yes,yes,no,no,no,no,no,no,no
+Dachshund,4,no,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no
+Stray,5,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Poodle,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,14,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Stray,2,no,no,yes,no,yes,yes,no,no,no,no,no,no,no
+Poodle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,8,yes,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+Great Dane,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,13,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes
+Bulldog,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,1,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,12,no,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,yes
+Beagle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,5,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no
+Rottweiler,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,5,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Beagle,13,no,yes,yes,no,yes,no,no,no,no,no,no,no,no
+Poodle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,8,no,no,yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes
+Stray,12,no,no,yes,yes,yes,yes,no,yes,no,yes,no,no,no
+Beagle,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,7,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Rottweiler,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,3,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Poodle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,8,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,8,no,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,13,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,no
+Mixed Breed,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no
+French Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,3,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Pomeranian,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,11,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes
+Chihuahua,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,8,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no
+Mixed Breed,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Poodle,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,7,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no
+Chihuahua,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,9,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Bulldog,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,7,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Chihuahua,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Great Dane,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,12,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+Great Dane,1,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Pomeranian,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,9,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes
+Dachshund,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,5,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Great Dane,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,10,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Doberman Pinscher,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,3,no,yes,yes,yes,yes,no,no,no,no,no,no,no,no
+Pomeranian,7,no,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,no
+French Bulldog,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,11,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no
+Siberian Husky,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Labrador Retriever,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,4,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,11,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no
+Rottweiler,8,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+German Shepherd,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,12,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Siberian Husky,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,15,no,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,14,no,yes,yes,no,no,yes,no,no,no,no,no,no,no
+Golden Retriever,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,6,no,no,yes,yes,yes,yes,no,yes,yes,yes,no,no,no
+Dachshund,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,8,yes,no,no,no,yes,no,no,no,no,no,no,no,no
+Mixed Breed,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,15,no,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no
+Australian Shepherd,13,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+French Bulldog,15,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Dachshund,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,5,no,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,6,yes,no,no,no,no,yes,no,no,no,no,no,no,no
+Doberman Pinscher,3,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Labrador Retriever,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,11,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,13,no,yes,yes,no,yes,no,no,no,no,no,no,no,no
+Stray,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,4,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+Pomeranian,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,12,no,no,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes
+Bulldog,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,12,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,13,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no
+Pomeranian,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,2,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes
+Golden Retriever,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,4,no,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,yes
+German Shepherd,6,no,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes
+Rottweiler,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,14,no,no,yes,yes,no,yes,no,no,no,no,no,no,no
+Poodle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,15,no,yes,yes,no,yes,no,no,no,no,no,no,no,no
+French Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,yes,no,yes,yes,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,11,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+Pomeranian,3,no,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,2,no,no,yes,yes,no,no,no,no,no,no,no,no,no
+Boxer,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,11,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Beagle,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,14,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Rottweiler,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,12,no,yes,yes,yes,yes,yes,no,yes,no,yes,yes,no,no
+Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,2,no,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,6,no,no,yes,yes,yes,yes,no,yes,no,no,yes,yes,no
+Mixed Breed,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,14,no,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Bulldog,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,2,no,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes
+Great Dane,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,4,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,13,no,yes,yes,yes,yes,yes,no,yes,yes,yes,no,no,no
+Mixed Breed,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,13,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Boxer,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,14,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,1,no,no,yes,yes,yes,yes,yes,no,no,no,yes,yes,no
+Boxer,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,2,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no
+Stray,12,no,no,yes,yes,yes,yes,no,yes,no,yes,yes,no,no
+Labrador Retriever,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,8,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no
+German Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,4,no,yes,no,no,yes,no,no,no,no,no,no,no,no
+Chihuahua,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,3,no,no,yes,no,yes,yes,no,no,no,no,no,no,no
+German Shepherd,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,8,no,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,14,no,no,yes,yes,no,no,no,no,no,no,no,no,no
+Dachshund,12,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no
+Beagle,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,no,yes,yes,yes,yes,yes,no,no,yes,yes,no,no,no
+Pomeranian,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,9,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Golden Retriever,4,no,yes,yes,no,no,yes,no,no,no,no,no,no,no
+Dachshund,2,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Australian Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,11,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes
+Great Dane,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,14,no,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes
+Beagle,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,14,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,15,no,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,no,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,no
+Stray,15,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Shih Tzu,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,14,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Australian Shepherd,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,3,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,11,no,no,yes,yes,yes,yes,no,yes,yes,yes,no,no,no
+Shih Tzu,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,12,no,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no
+Golden Retriever,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,1,no,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,9,no,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes
+Doberman Pinscher,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,1,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no,no
+Australian Shepherd,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,10,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no,no
+Boxer,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,2,no,yes,yes,yes,no,no,no,no,no,no,no,no,no
+Dachshund,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,15,no,yes,yes,yes,yes,yes,yes,no,yes,no,yes,no,yes
+Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,15,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Chihuahua,14,yes,no,no,yes,no,yes,no,no,no,no,no,no,no
+Poodle,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,15,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+French Bulldog,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,9,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,8,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,13,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Poodle,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,2,no,no,yes,yes,no,no,no,no,no,no,no,no,no
+Beagle,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,5,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,8,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,7,no,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,13,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Pomeranian,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,3,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+German Shepherd,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,6,no,no,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes
+Bulldog,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,13,no,yes,yes,yes,yes,yes,no,yes,no,yes,no,no,no
+Bulldog,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,12,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,8,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,no,no
+Australian Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,15,no,yes,no,no,no,yes,no,no,no,no,no,no,no
+Boxer,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,5,no,yes,yes,no,no,yes,no,no,no,no,no,no,no
+Poodle,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,no,yes,yes,yes,yes,yes,no,yes,yes,yes,no,no,no
+German Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,4,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+German Shepherd,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,15,no,yes,yes,no,no,yes,no,no,no,no,no,no,no
+Siberian Husky,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,7,no,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,4,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,11,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,no,no
+Chihuahua,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,14,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,10,yes,no,no,no,yes,no,no,no,no,no,no,no,no
+French Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,5,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Golden Retriever,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,7,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no
+Siberian Husky,5,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Golden Retriever,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,no,yes,yes,yes,no,yes,no,no,no,no,no,no,no
+Pomeranian,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,4,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,2,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,7,no,yes,yes,yes,yes,yes,yes,no,no,yes,no,yes,no
+Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,1,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Doberman Pinscher,10,yes,no,no,no,no,yes,no,no,no,no,no,no,no
+Bulldog,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,11,no,yes,yes,yes,yes,yes,no,yes,no,yes,yes,no,yes
+Stray,12,no,no,yes,yes,yes,yes,yes,no,no,no,yes,no,no
+Siberian Husky,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,2,no,no,yes,yes,yes,no,no,no,no,no,no,no,no
+Australian Shepherd,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,14,yes,no,no,no,no,yes,no,no,no,no,no,no,no
+Shih Tzu,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,11,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no
+Great Dane,13,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Labrador Retriever,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,5,no,no,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no
+Rottweiler,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,3,no,no,yes,yes,yes,yes,no,no,yes,yes,yes,no,no
+Australian Shepherd,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,11,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Golden Retriever,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,9,yes,no,no,yes,no,no,no,no,no,no,no,no,no
+French Bulldog,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,7,no,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no
+Labrador Retriever,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,2,no,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes
+German Shepherd,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,10,no,yes,yes,yes,yes,yes,no,yes,yes,yes,no,no,no
+Mixed Breed,2,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,14,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Boxer,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,11,no,no,yes,yes,yes,yes,no,no,yes,no,no,yes,no
+Doberman Pinscher,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,8,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no,no,no
+Great Dane,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,13,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+Mixed Breed,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,10,no,no,yes,yes,no,yes,no,no,no,no,no,no,no
+German Shepherd,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,5,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Poodle,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,6,yes,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no
+Dachshund,3,no,yes,yes,yes,yes,no,no,no,no,no,no,no,no
+Rottweiler,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,5,yes,yes,yes,yes,yes,yes,no,no,yes,no,yes,no,no
+Pomeranian,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,13,yes,no,no,yes,no,no,no,no,no,no,no,no,no
+Great Dane,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,3,no,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes
+Great Dane,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,2,no,no,yes,yes,yes,yes,no,yes,no,yes,yes,yes,yes
+Doberman Pinscher,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,2,no,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes
+Rottweiler,3,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Siberian Husky,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,10,yes,no,no,yes,no,no,no,no,no,no,no,no,no
+Pomeranian,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,8,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+German Shepherd,6,no,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,yes
+Australian Shepherd,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,14,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Rottweiler,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,6,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no
+Chihuahua,11,no,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes
+Mixed Breed,9,yes,no,no,yes,no,no,no,no,no,no,no,no,no
+Dachshund,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,15,no,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,3,no,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes
+French Bulldog,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,9,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+French Bulldog,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,13,no,no,yes,no,no,yes,no,no,no,no,no,no,no
+Dachshund,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,14,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Bulldog,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,8,yes,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Doberman Pinscher,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,13,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Poodle,12,no,no,yes,yes,yes,yes,no,yes,no,yes,yes,yes,yes
+Poodle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,3,no,yes,yes,yes,no,no,no,no,no,no,no,no,no
+Boxer,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,9,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Stray,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,3,no,yes,yes,yes,yes,yes,no,no,yes,no,no,no,yes
+Australian Shepherd,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,12,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Chihuahua,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,3,no,no,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes
+Bulldog,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,10,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no
+Doberman Pinscher,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,4,yes,no,yes,yes,yes,yes,no,no,yes,no,yes,yes,yes
+Great Dane,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,9,no,yes,yes,no,no,yes,no,no,no,no,no,no,no
+Labrador Retriever,3,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,13,no,no,yes,yes,no,no,no,no,no,no,no,no,no
+Chihuahua,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,10,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Shih Tzu,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,no,yes,yes,yes,no,no,no,no,no,no,no,no,no
+Rottweiler,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,3,no,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no
+Labrador Retriever,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,11,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,9,no,yes,yes,yes,no,no,no,no,no,no,no,no,no
+Boxer,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,3,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no
+Bulldog,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,5,no,yes,yes,no,yes,no,no,no,no,no,no,no,no
+Poodle,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,10,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,14,no,no,yes,no,yes,yes,no,no,no,no,no,no,no
+French Bulldog,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,13,no,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,10,no,yes,yes,yes,yes,yes,no,no,yes,yes,no,no,no
+Bulldog,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,14,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Siberian Husky,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,7,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Pomeranian,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,13,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no
+Shih Tzu,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,2,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no
+French Bulldog,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,7,no,no,yes,yes,no,no,no,no,no,no,no,no,no
+Pomeranian,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,2,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Dachshund,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,13,no,no,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes
+Stray,2,no,no,yes,yes,yes,yes,yes,no,yes,yes,no,no,no
+Rottweiler,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,4,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Doberman Pinscher,9,no,no,yes,no,yes,no,no,no,no,no,no,no,no
+Stray,8,no,no,yes,no,no,yes,no,no,no,no,no,no,no
+Boxer,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,4,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no
+Doberman Pinscher,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,14,no,yes,yes,yes,yes,no,no,no,no,no,no,no,no
+Bulldog,11,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Shih Tzu,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,4,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,14,no,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes
+Great Dane,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,5,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,5,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+German Shepherd,6,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no
+Stray,13,no,no,yes,yes,yes,yes,no,no,yes,yes,no,no,yes
+German Shepherd,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,2,no,no,yes,yes,yes,yes,yes,no,yes,yes,no,no,yes
+Stray,6,no,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Dachshund,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Dachshund,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,4,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,1,no,yes,yes,yes,no,yes,no,no,no,no,no,no,no
+Pomeranian,9,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Beagle,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,15,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,2,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Pomeranian,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,15,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Stray,15,no,no,yes,yes,yes,yes,no,no,yes,yes,no,yes,no
+Mixed Breed,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,9,yes,yes,no,yes,no,no,no,no,no,no,no,no,no
+Great Dane,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,7,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+German Shepherd,7,no,yes,yes,yes,yes,yes,no,yes,no,yes,no,no,no
+Beagle,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,11,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Chihuahua,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,12,no,no,yes,yes,no,no,no,no,no,no,no,no,no
+Beagle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,4,yes,no,no,no,yes,no,no,no,no,no,no,no,no
+Bulldog,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,10,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Poodle,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,12,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Dachshund,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,3,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Stray,7,no,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,11,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Labrador Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,2,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no
+Great Dane,1,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,7,yes,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Doberman Pinscher,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,13,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Doberman Pinscher,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,12,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Doberman Pinscher,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,13,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no
+Rottweiler,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,2,no,no,yes,yes,yes,yes,no,yes,no,yes,no,no,no
+Bulldog,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,3,no,no,yes,yes,yes,yes,no,yes,yes,no,no,no,no
+Pomeranian,1,no,no,yes,no,yes,no,no,no,no,no,no,no,no
+Pomeranian,2,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Stray,15,no,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Pomeranian,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,4,no,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,yes
+Great Dane,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,15,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Rottweiler,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,2,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no
+Beagle,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+German Shepherd,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,10,no,no,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,14,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Rottweiler,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,14,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,7,no,no,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no
+Australian Shepherd,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,15,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,14,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,10,no,no,yes,no,yes,no,no,no,no,no,no,no,no
+Great Dane,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,12,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Great Dane,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,10,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,5,no,yes,yes,yes,yes,yes,no,yes,no,yes,no,no,no
+Beagle,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,6,no,yes,yes,yes,no,no,no,no,no,no,no,no,no
+Poodle,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,12,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no
+Doberman Pinscher,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,9,no,yes,yes,yes,yes,yes,no,no,no,no,no,no,no
+Poodle,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,15,yes,yes,no,no,yes,no,no,no,no,no,no,no,no
+Boxer,7,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Bulldog,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,1,no,yes,yes,yes,yes,yes,yes,yes,no,yes,no,no,no
+Boxer,7,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,6,yes,yes,no,no,no,yes,no,no,no,no,no,no,no
+Boxer,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,7,no,no,yes,yes,no,no,no,no,no,no,no,no,no
+Bulldog,8,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,8,no,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,14,no,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,1,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,9,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,1,no,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes
+Boxer,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Rottweiler,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Siberian Husky,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Poodle,9,yes,no,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,3,no,yes,yes,no,no,yes,no,no,no,no,no,no,no
+Poodle,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Chihuahua,8,no,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,yes
+Pomeranian,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,7,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,3,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,11,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,13,no,no,yes,yes,no,yes,no,no,no,no,no,no,no
+Golden Retriever,7,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,14,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,8,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes
+Labrador Retriever,6,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,13,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no
+Labrador Retriever,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Doberman Pinscher,3,no,yes,yes,no,no,yes,no,no,no,no,no,no,no
+French Bulldog,8,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Poodle,10,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Pomeranian,13,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,11,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,5,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,12,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Golden Retriever,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Mixed Breed,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Stray,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Beagle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Dachshund,3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Australian Shepherd,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,6,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Labrador Retriever,15,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Stray,4,no,no,no,no,no,no,no,no,no,no,no,no,no
+Great Dane,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,4,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+French Bulldog,2,yes,no,no,no,no,no,no,no,no,no,no,no,no
+German Shepherd,12,yes,no,no,no,no,no,no,no,no,no,no,no,no
+Boxer,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Shih Tzu,2,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Beagle,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Boxer,5,yes,yes,no,no,no,no,no,no,no,no,no,no,no
+Bulldog,10,yes,yes,no,no,no,no,no,no,no,no,no,no,no
