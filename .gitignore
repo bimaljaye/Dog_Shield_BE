@@ -1,6 +1,7 @@
 # Python
 __pycache__/
 *.pyc
+/Rabies_Detection_Model/Rabies_Classification/__pycache__/
 
 # Virtual Environment
 .venv/
